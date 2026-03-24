@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "lobash": "^1.0.0"
+    "prettier": "3.8.1"
   }
 }
